@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kendell Garbanzo and I'm a Computer Science student at ITCR, passionate about building efficient, scalable, and data-driven software solutions.</p>
+<p align="left">My name is Kendell Garbanzo, a Computer Science student at ITCR driven by curiosity and continuous learning. I enjoy exploring new technologies, improving my skills, and contributing to projects that make an impact.</p>
 
 ###
 
@@ -11,10 +11,7 @@
 ###
 
 <p align="left">
-Creating solutions and learning through real-world projects.<br>
-I'm currently improving my skills in backend development, cloud deployment, and data analytics.<br>
-Goals: keep growing as a developer while contributing to projects that create meaningful impact.<br>
-Fun fact: I enjoy understanding how things work as much as making them work better.
+I’m constantly creating, learning, and growing through hands-on experiences and collaborative projects. I focus on strengthening both my technical abilities and soft skills such as problem-solving, communication, adaptability, and teamwork. My current journey involves exploring different areas of software engineering and modern technologies while continuing to challenge myself through real-world applications. I’m motivated by the opportunity to contribute to projects, learn from others, and keep improving every day.
 </p>
 
 ###
