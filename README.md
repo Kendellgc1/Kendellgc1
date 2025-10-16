@@ -14,11 +14,6 @@
 I’m constantly creating, learning, and growing through hands-on experiences and collaborative projects. I focus on strengthening both my technical abilities and soft skills such as problem-solving, communication, adaptability, and teamwork. My current journey involves exploring different areas of software engineering and modern technologies while continuing to challenge myself through real-world applications. I’m motivated by the opportunity to contribute to projects, learn from others, and keep improving every day.
 </p>
 
-###
-
-<h2 align="left">Tech Stack</h2>
-
-###
 
 <h2 align="left">Tech Stack</h2>
 
